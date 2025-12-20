@@ -461,7 +461,8 @@ body {
 }
 
 .bases-kanban-card {
-	transition: transform 0.15s ease, opacity 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+	transition: transform 0.15s ease, opacity 0.15s ease, box-shadow 0.15s ease,
+		border-color 0.15s ease;
 }
 
 /* Highlight effect when card/column is dropped */
